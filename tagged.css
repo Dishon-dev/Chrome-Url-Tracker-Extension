@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    font-family: 'Poppins' serif;
+}
+body{
+    padding: 1em;
+    min-width: 400px;
+}
+input{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0.5rem 1em;
+    margin: 1rem 0;
+}
+
+button{
+    background: #5bd315;
+    margin: 1em 0;
+    padding: 0.5rem;
+    border: 1px solid #60d81b;
+}
+ul{
+    margin-top: 2em;
+    padding-left: 0;
+}
+ul li{
+    list-style: none;
+    padding: 0.5rem 0;
+}
+ul li a{
+    color: #141414;
+    font-size: 1rem;
+    /*text-decoration: none;*/
+}
+#delete-btn{
+    background: transparent;
+    color: #5f9341;
+}
