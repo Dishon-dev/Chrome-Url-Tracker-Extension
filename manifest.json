@@ -4,10 +4,10 @@
     "version": "1.1",
     "name": "Url Tracker",
     "action": {
-        "default_popup": "Url Tracker.html",
+        "default_popup": "index.html",
         "defaul_icon": [
             {
-                "src": "Track-Icon.jpg"
+                "src": "./Track-Icon.jpg"
             }
         ]
     },
